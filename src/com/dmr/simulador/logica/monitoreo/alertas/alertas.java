@@ -11,5 +11,7 @@ package com.dmr.simulador.logica.monitoreo.alertas;
  * @author Deissysita
  */
 public class alertas {
-    
+    public void guardar(){
+        
+    }
 }
